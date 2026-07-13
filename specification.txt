@@ -46,3 +46,5 @@ Bootstrap
     class="img-thumbnail"
     class="text-center"
     E todas as tags gráficas (<ul>,<li>,<h1>,<h3>,<p>)
+
+Observações: Usei 2h30 fora do tempo de aula para fazer este trabalho
