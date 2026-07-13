@@ -52,4 +52,3 @@ Bootstrap
     E todas as tags gráficas (<ul>,<li>,<h1>,<h3>,<p>)
 
 
-Obs: Usei 2h30 fora do tempo de aula para fazer este trabalho
