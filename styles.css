@@ -1,0 +1,47 @@
+
+body {
+  background: #c7f5fc;
+}
+
+.icon img{
+  height: 220px;
+}
+
+
+
+
+
+.collapsible {
+  background-color: white;
+  cursor: pointer;
+  width: fit-content;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  float:right;
+}
+
+.collapsible img {
+  width: 24px;
+}
+
+.active, .collapsible:hover {
+  background-color: #999;
+}
+
+.content {
+  display: none;
+  overflow: hidden;
+  width: fit-content;
+  background-color: white;
+  cursor: pointer;
+  float:right;
+}
+
+.content img {
+  width: 24px;
+}
+
+.active, .content:hover {
+  background-color: #999;
+}

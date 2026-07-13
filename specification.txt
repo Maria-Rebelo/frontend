@@ -1,0 +1,48 @@
+HTML
+    <h1>
+    <h3>
+    <p>
+    <div>
+    <a>
+    <img>
+    <button>
+    <ul>
+    <li>
+    <script>
+
+    Tecnicamente estas tags não estavam listadas como não contar com elas
+    <link>
+    <meta>
+
+CSS
+    setores usados:
+        body{}
+        .icon{}
+        .collapsible {}
+        .collapsible img {}
+        .active, .collapsible:hover {}
+        .content {}
+        .content img {}
+        .active, .content:hover {}
+
+    propriedades usadas:
+        background: color;
+        height: number px;
+        text-align: center;
+        cursor: pointer;
+        border: none;
+        outline: none;
+        float:right;
+        font-size: number px;
+        width: number px or fit-content;
+        display: none;
+        overflow: hidden;
+
+
+JavaScript
+    Usei o javascript para fazer um menu colapsável
+
+Bootstrap
+    class="img-thumbnail"
+    class="text-center"
+    E todas as tags gráficas (<ul>,<li>,<h1>,<h3>,<p>)
